@@ -1,2 +1,8 @@
 openai
 python-dotenv
+langchain
+chromadb
+sqlalchemy
+pandas
+pyprojroot
+langchain-community
